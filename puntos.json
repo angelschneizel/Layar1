@@ -1,0 +1,52 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat":17.075235, 
+          "lon": -96.723148
+        }
+      }, 
+       "icon": {
+        "url": "https://raw.githubusercontent.com/angelschneizel/Layar1/master/22251469_1576434412418134_128121276_o.jpg"
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "Biblioteca Infantil BS"
+      }
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat":17.062993, 
+          "lon": -96.724297
+        }
+      }, 
+       "icon": {
+        "url": "https://raw.githubusercontent.com/angelschneizel/Layar1/master/IMG_0172.JPG"
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "Biblioteca Publica General"
+      }
+    },
+  {
+      "anchor": {
+        "geolocation": {
+          "lat":17.063017, 
+          "lon": -96.726312
+        }
+      }, 
+       "icon": {
+        "url": "https://raw.githubusercontent.com/angelschneizel/Layar1/master/IMG_0175.JPG"
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "Biblioteca Andres Hinestrosa"
+      }
+    }
+  ], 
+  "layer": "bibliotecala0dfn "
+}
